@@ -1,19 +1,17 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+
+body {
+  background-color: #a57070;
 }
 
-.label {
-  font-weight: bold;
+img {
+  width: 15%;
 }
 
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
+.red_font {
+  color: #000000;
 }
 
-.form-group {
-  margin-bottom: 5px;
+.tiny_text {
+  font-size: 11px;
+  color: #bebebe;
 }
